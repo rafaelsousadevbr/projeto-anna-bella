@@ -1,0 +1,10 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 16px Arial, Helvetica, sans-serif;
+    background: #d2d2c1 url('image/fundo.png');
+}
