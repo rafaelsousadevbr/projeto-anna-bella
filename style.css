@@ -23,6 +23,15 @@ body {
     padding: 10px;
 }
 
+#rodape{
+    padding: 10px;
+    text-align: center;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
 a{
     color: #4b566a;
     text-decoration: none;
