@@ -18,9 +18,18 @@ body {
     padding: 18px;
 }
 
-A{
+#conteudo{
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+a{
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
     padding: 5px;
+}
+
+p{
+    padding-top: 10px;
 }
