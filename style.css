@@ -8,3 +8,7 @@ body {
     font: 16px Arial, Helvetica, sans-serif;
     background: #d2d2c1 url('image/fundo.png');
 }
+
+#principal {
+    width: 900px;
+}
